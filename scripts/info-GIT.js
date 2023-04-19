@@ -25,3 +25,12 @@ Una vez que consideremos que esa rama o historioa este finalizada la vamos a uni
 
 // !git switch main
 // Para cambiar de ramas
+
+// ? Tener cuidado cuando creamos una rama nueva, de fijarse desde que ramas estamos creando esa nueva rama, tiene que se la mas nueva
+
+// * Convenciones de nombres de ramas
+// feature/feature
+// bugfix/...
+// hotfix/...
+// release/...
+

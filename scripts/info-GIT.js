@@ -25,3 +25,20 @@ Una vez que consideremos que esa rama o historioa este finalizada la vamos a uni
 
 // !git switch main
 // Para cambiar de ramas
+
+// ? Tener cuidado cuando creamos una rama nueva, de fijarse desde que ramas estamos creando esa nueva rama, tiene que se la mas nueva
+
+// * Convenciones de nombres de ramas
+// feature/feature
+// bugfix/...
+// hotfix/...
+// release/...
+// * Push a gitHub
+// cuando hacemos el push usamos git push origin ".." donde va el nombre de la rama que queremos pushear al repositorio remoto. Entonces pusheamos ramas individuales, podemos elegir cual pushear.
+// *Actualizar respecto a un repo remoto
+// ! git fetch
+// Para actualizar y ver que cambios tenemos respecto al repo 
+// ! git branch -a
+// Para ver el listado de todas las ramas en el repo remoto
+// ! git switch "rama"
+// Al cambiar a esa rama de remoto la descargamos y la tenemos en local

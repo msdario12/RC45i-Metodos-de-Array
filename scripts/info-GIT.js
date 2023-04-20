@@ -37,7 +37,7 @@ Una vez que consideremos que esa rama o historioa este finalizada la vamos a uni
 // cuando hacemos el push usamos git push origin ".." donde va el nombre de la rama que queremos pushear al repositorio remoto. Entonces pusheamos ramas individuales, podemos elegir cual pushear.
 // *Actualizar respecto a un repo remoto
 // ! git fetch
-// Para actualizar y ver que cambios tenemos respecto al repo 
+// Para actualizar y ver que cambios tenemos respecto al repo
 // ! git branch -a
 // Para ver el listado de todas las ramas en el repo remoto
 // ! git switch "rama"

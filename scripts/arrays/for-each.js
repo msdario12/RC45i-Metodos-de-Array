@@ -1,4 +1,4 @@
-const paisesLatinoamerica = [
+export const paisesLatinoamerica = [
 	{
 		nombre: "Argentina",
 		ubicacion: "Sur de Sudamérica",
